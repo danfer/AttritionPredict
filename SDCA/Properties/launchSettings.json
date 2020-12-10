@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SDCA": {
+      "commandName": "Project",
+      "commandLineArgs": "predict ..\\..\\..\\Data\\input.json"
+    }
+  }
+}
